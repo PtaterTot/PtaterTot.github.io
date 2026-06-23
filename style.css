@@ -90,3 +90,9 @@ footer {
     background: #1e1e1e;
     margin-top: 40px;
 }
+
+#bg {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+}
